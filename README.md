@@ -73,9 +73,9 @@ User Input (start, end, delta, filename)
    ```
 
 3. **Follow the prompts:**
-   - Enter a starting distance (in feet).
-   - Enter an ending distance (must be less than starting distance).
-   - Enter the delta (step decrement).
+   - Enter a starting distance in feet (integer values only).
+   - Enter an ending distance (must be less than starting distance, integer).
+   - Enter the delta / step decrement (integer).
    - Provide a filename for the output file.
 
 ### Example
